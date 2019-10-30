@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CCLoad)(type KiCad)(uri ${KIPRJMOD}/CCLoad.pretty)(options "")(descr ""))
+)

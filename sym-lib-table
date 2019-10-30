@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CCLoad)(type Legacy)(uri ${KIPRJMOD}/CCLoad.lib)(options "")(descr ""))
+  (lib (name CCLoad-rescue)(type Legacy)(uri ${KIPRJMOD}/CCLoad-rescue.lib)(options "")(descr ""))
+)
