@@ -1,4 +1,4 @@
-15944559514482235
+15955579747380235
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5915,12 +5915,61 @@ C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
 2
 2
 CCLoad
+Binding_Post_Caltest_CT2234
+
+
+0
+1
+1
+CCLoad
+Binding_Post_CLIFF_CL159720
+
+
+0
+0
+0
+CCLoad
+BTS117_outboard
+
+
+0
+3
+3
+CCLoad
+gets_hot_solder_mask
+
+
+0
+0
+0
+CCLoad
+hot_solder_mask
+
+
+0
+0
+0
+CCLoad
+logo_silk
+
+
+0
+0
+0
+CCLoad
 QFN-24_EP_4x4_Pitch0.5mm
 
 
 0
 40
 25
+CCLoad
+SW_DP3T_ALPS_SSSS223600
+
+
+0
+8
+8
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill

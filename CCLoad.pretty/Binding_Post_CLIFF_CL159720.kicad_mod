@@ -1,0 +1,8 @@
+(module Binding_Post_CLIFF_CL159720 (layer F.Cu) (tedit 5DEEB489)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Binding_Post_CLIFF_CL159720 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
